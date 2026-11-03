@@ -165,13 +165,13 @@ function mousePressed() {
     ob2.resetear();
     ob3.velocidad = 1;
     ob3.resetear();
-    ob3.activo = false;
+    ob3.activo = false;//al iniciar estan desactivados
     ob4.velocidad = 1;
     ob4.resetear();
-    ob4.activo = false;
+    ob4.activo = false;//al iniciar estan desactivados
     ob5.velocidad = 1;
     ob5.resetear();
-    ob5.activo = false;
+    ob5.activo = false;//al iniciar estan desactivados
   }
 
   function reiniciarJuego() {
@@ -184,11 +184,11 @@ function mousePressed() {
     ob2.resetear();
     ob3.velocidad = 1;
     ob3.resetear();
-    ob3.activo = false;
+    ob3.activo = false;//al iniciar estan desactivados
     ob4.velocidad = 1;
     ob4.resetear();
-    ob4.activo = false;
+    ob4.activo = false;//al iniciar estan desactivados
     ob5.velocidad = 1;
     ob5.resetear();
-    ob5.activo = false;
+    ob5.activo = false;//al iniciar estan desactivados
   }
